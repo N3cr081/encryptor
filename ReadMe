@@ -1,0 +1,10 @@
+Readme 
+
+encryptor.go encrypts files with AES 128 or 256 encryption
+
+go run encrypt.go
+
+input_path: path to which file you want encrypted
+example path /home/user/Desktop/something.txt
+output_path: to where yo want to write the .enc file
+example path /home/user/Desktop/something.enc
